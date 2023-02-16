@@ -1,6 +1,6 @@
-package day04.array;
+package day03.loop;
 
-public class MainClass06 {
+public class MainClass01 {
 	public static void main(String[] args) {
 		
 	}
